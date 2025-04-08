@@ -38,7 +38,7 @@ Sou estudante do curso Técnico em Mecatrônica integrado ao Ensino Médio do IF
 **Instituto Federal do Espírito Santo (IFES) - Campus Serra** 🎓  
 Técnico em Mecatrônica integrado ao Ensino Médio  
 
-*Período: 2004 - 2026* 📅
+*Período: 2024 - 2026* 📅
 
 ## Contato 📞
 
