@@ -48,8 +48,3 @@ Técnico em Mecatrônica integrado ao Ensino Médio
 [![Email](https://img.shields.io/badge/Email-versianienzo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:versianienzo@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Versianih-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Versianih)  
 [![Lattes](https://img.shields.io/badge/Lattes-CV-brightgreen?style=for-the-badge&logo=open-access&logoColor=white)](http://lattes.cnpq.br/9041225339446323)
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Versianih&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Versianih&layout=compact&theme=dracula)
